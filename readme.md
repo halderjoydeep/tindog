@@ -162,7 +162,7 @@ I'm greatly thankful to ....
 [license-shield]: https://img.shields.io/github/license/halderjoydeep/tindog.svg?style=for-the-badge
 [license-url]: https://github.com/halderjoydeep/tindog/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/joydeep-halder
+[linkedin-url]: https://www.linkedin.com/in/joydeep-halder
 [product-screenshot-1]: images/tindog-landing.png
 [product-screenshot-2]: images/tindog-testimonial.png
 [html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
